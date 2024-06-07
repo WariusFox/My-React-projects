@@ -1,0 +1,19 @@
+.post {
+  max-width: 50%;
+  margin: 25px auto;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.post p {
+  color: #097921;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.post small {
+  font-size: 18px;
+  color: red;
+  font-weight: 700;
+}

@@ -1,0 +1,12 @@
+.cardList {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.title {
+  color: brown;
+  text-align: center;
+  font-weight: 700;
+}

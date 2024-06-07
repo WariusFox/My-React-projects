@@ -1,0 +1,20 @@
+.navList {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  margin: 0;
+  padding: 0;
+}
+
+.navItem {
+  color: rgb(4, 4, 243);
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.navItem:hover {
+  color: #e50c29;
+}
